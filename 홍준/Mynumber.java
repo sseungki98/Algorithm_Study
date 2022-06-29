@@ -34,4 +34,8 @@ public class Selfnumber {
 	}
 
     
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> branch 'main' of https://github.com/sseungki98/Algorithm_Study.git
