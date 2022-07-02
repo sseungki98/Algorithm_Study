@@ -10,3 +10,4 @@
 |3|2022-06-30|1018|체스판 다시 칠하기|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg">|
 |4|2022-07-01|2606|바이러스|<img height="25px" width="25px" src="https://camo.githubusercontent.com/627abdadaa6151e4ef8e6ef62f47e735acfcd7c04d75fa1d771cf166a06a7f42/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f382e737667">|
 |5|2022-07-02|14467|소가 길을 건너간 이유 1|<img height="25px" width="25px" src="https://camo.githubusercontent.com/ac0dd44c00f10cd22ce0d91a3eeaff9d336e8e18585ec207d89405390add44c3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f352e737667">|
+|6|2022-07-03|21918|전구|<img height="25px" width="25px" src="https://camo.githubusercontent.com/5ce717d916acff7b6a5e163f173ba1c8873f10350c38672eec4f1d628c600990/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f342e737667">|
