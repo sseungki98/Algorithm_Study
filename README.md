@@ -15,3 +15,4 @@
 |8|2022-07-05|2579|계단 오르기|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|
 |9|2022-07-06|1904|01타일|<img height="25px" width="25px" src="https://camo.githubusercontent.com/627abdadaa6151e4ef8e6ef62f47e735acfcd7c04d75fa1d771cf166a06a7f42/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f382e737667">|
 |10|2022-07-07|1244|스위치 켜고 끄기|<img height="25px" width="25px" src="https://camo.githubusercontent.com/627abdadaa6151e4ef8e6ef62f47e735acfcd7c04d75fa1d771cf166a06a7f42/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f382e737667">|
+|11|2022-07-08|3085|사탕 게임|<img height="25px" width="25px" src="https://camo.githubusercontent.com/627abdadaa6151e4ef8e6ef62f47e735acfcd7c04d75fa1d771cf166a06a7f42/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f382e737667">|
