@@ -13,9 +13,8 @@ for _ in range(N):
             if answer == 1000000:
                 answer=-1
         else:
-            while C:
+            while True: #무조건 break문에 도달하므로 버스가 도착 시간에 도달할 때 까지 반복
                 S+=I    #다음 버스 도착시간
-                C-=1    #버스 대수 감소
                 if S >= T:  #버스가 도착시간 이후 도착한 경우
                     if answer == -1:    #이전에 -1을 경우 예외처리
                         answer=S-T
