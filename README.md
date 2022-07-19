@@ -27,3 +27,4 @@
 |20|2022-07-17|67256|키패드 누르기|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.1-darkgreen">|
 |21|2022-07-18|1058|친구|<img height="25px" width="25px" src="https://camo.githubusercontent.com/627abdadaa6151e4ef8e6ef62f47e735acfcd7c04d75fa1d771cf166a06a7f42/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f382e737667">|
 |22|2022-07-19|1309|동물원|<img height="25px" width="25px" src="https://camo.githubusercontent.com/f9fbfc34970ea19a732149ee3f1afc3fcb96309a8d182ef157d724d6eefd1973/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31302e737667">|
+|23|2022-07-20|15787|기차가 어둠을 헤치고 |<img height="25px" width="25px" src="https://camo.githubusercontent.com/e89e2c34907a70e2de81836b1d798391d56768998c197adccdb9ee1a71f75b9e/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f392e737667">|
