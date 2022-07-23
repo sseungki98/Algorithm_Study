@@ -30,8 +30,7 @@ def solution(str1, str2):
             s2_list.append((str2[i]+str2[i+1]).upper())
     if not s1_list and not s2_list: #둘 다 공집합이라면 1이기 때문에 65536을 곱한 65536을 리턴
         return 65536
-    else:
-        inter_list=inter(copy.deepcopy(s1_list),copy.deepcopy(s2_list))
-        union_list=union(copy.deepcopy(s1_list),copy.deepcopy(s2_list))
-        answer = int((len(inter_list)/len(union_list)*65536)) #자카드 유사도 계산
-        return answer
+    inter_list=inter(copy.deepcopy(s1_list),copy.deepcopy(s2_list))
+    union_list=union(copy.deepcopy(s1_list),copy.deepcopy(s2_list))
+    answer = int((len(inter_list)/len(union_list)*65536)) #자카드 유사도 계산
+    return answer
