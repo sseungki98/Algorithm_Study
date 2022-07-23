@@ -31,3 +31,4 @@
 |24|2022-07-21|1388|바닥 장식|<img height="25px" width="25px" src="https://camo.githubusercontent.com/627abdadaa6151e4ef8e6ef62f47e735acfcd7c04d75fa1d771cf166a06a7f42/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f382e737667">|
 |25|2022-07-22|10026|적록색약|<img height="25px" width="25px" src="https://camo.githubusercontent.com/7be7b7f2d5361871ef2ac500e420e83f1d9a425951dd33efa42068862e6b0bf3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31312e737667">|
 |26|2022-07-23|42586|기능개발|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-yellow">|
+|27|2022-07-24|17677|[1차] 뉴스 클러스터링|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-yellow">|
