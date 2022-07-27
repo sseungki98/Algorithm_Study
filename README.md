@@ -33,3 +33,5 @@
 |26|2022-07-23|42586|기능개발|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-yellow">|
 |27|2022-07-24|17677|[1차] 뉴스 클러스터링|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-yellow">|
 |28|2022-07-25|8394|악수|<img height="25px" width="25px" src="https://camo.githubusercontent.com/627abdadaa6151e4ef8e6ef62f47e735acfcd7c04d75fa1d771cf166a06a7f42/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f382e737667">|
+|29|2022-07-26|2156|포도주 시식|<img height="25px" width="25px" src="https://camo.githubusercontent.com/f9fbfc34970ea19a732149ee3f1afc3fcb96309a8d182ef157d724d6eefd1973/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31302e737667">|
+|30|2022-07-27|16935|배열 돌리기3|<img height="25px" width="25px" src="https://camo.githubusercontent.com/f9fbfc34970ea19a732149ee3f1afc3fcb96309a8d182ef157d724d6eefd1973/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31302e737667">|
