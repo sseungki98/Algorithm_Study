@@ -1,6 +1,5 @@
 
 import java.io.*;
-import java.util.Arrays;
 
 public class BJ_2156 {
 
