@@ -38,3 +38,4 @@
 |31|2022-07-28|20162|간식 파티|<img height="25px" width="25px" src="https://camo.githubusercontent.com/e89e2c34907a70e2de81836b1d798391d56768998c197adccdb9ee1a71f75b9e/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f392e737667">|
 |32|2022-07-29|18870|좌표 압축|<img height="25px" width="25px" src="https://camo.githubusercontent.com/e89e2c34907a70e2de81836b1d798391d56768998c197adccdb9ee1a71f75b9e/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f392e737667">|
 |33|2022-07-30|77484|로또의 최고 순위와 최저 순위|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.1-darkgreen">|
+|34|2022-07-31|72410|신규 아이디 추천|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.1-darkgreen">|
