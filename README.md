@@ -47,3 +47,4 @@
 |40|2022-08-06|17681|[1차] 비밀지도|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.1-darkgreen">|
 |41|2022-08-07|81301|숫자 문자열과 영단어|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.1-darkgreen">|
 |42|2022-08-08|1012|유기농 배추|<img height="25px" width="25px" src="https://camo.githubusercontent.com/e89e2c34907a70e2de81836b1d798391d56768998c197adccdb9ee1a71f75b9e/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f392e737667">|
+|43|2022-08-09|17086|아기 상어2|<img height="25px" width="25px" src="https://camo.githubusercontent.com/e89e2c34907a70e2de81836b1d798391d56768998c197adccdb9ee1a71f75b9e/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f392e737667">|
