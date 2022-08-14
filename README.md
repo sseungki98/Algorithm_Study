@@ -52,3 +52,4 @@
 |45|2022-08-11|1446|지름길|<img height="25px" width="25px" src="https://camo.githubusercontent.com/f9fbfc34970ea19a732149ee3f1afc3fcb96309a8d182ef157d724d6eefd1973/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31302e737667">|
 |46|2022-08-12|1946|신입 사원|<img height="25px" width="25px" src="https://camo.githubusercontent.com/f9fbfc34970ea19a732149ee3f1afc3fcb96309a8d182ef157d724d6eefd1973/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31302e737667">|
 |47|2022-08-13|43165|타겟 넘버|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-yellow">|
+|48|2022-08-14|42860|조이스틱|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-yellow">|
