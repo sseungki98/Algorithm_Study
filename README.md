@@ -4,7 +4,7 @@
 
 ## Contributors
 |월|화|수|목|금|토|일|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:------:|:------:|:------:|:------:|:------:|:--:|:--:|
 |[Kkkimdongju](https://github.com/Kkkimdongju)|[junBcomputerstory](https://github.com/junBcomputerstory)|[castlejun-2](https://github.com/castlejun-2)|[sseungki98](https://github.com/sseungki98)|[chlgksdbs](https://github.com/chlgksdbs)|Undefined|Undefined|
 
 ## Solved List
