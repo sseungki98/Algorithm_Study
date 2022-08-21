@@ -64,3 +64,4 @@
 |52|2022-08-18|1461|도서관|<img height="25px" width="25px" src="https://camo.githubusercontent.com/7be7b7f2d5361871ef2ac500e420e83f1d9a425951dd33efa42068862e6b0bf3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31312e737667">|
 |53|2022-08-19|12865|평범한 배낭|<img height="25px" width="25px" src="https://camo.githubusercontent.com/7be7b7f2d5361871ef2ac500e420e83f1d9a425951dd33efa42068862e6b0bf3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31312e737667">|
 |54|2022-08-20|17676|[1차] 추석 트래핑|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-orange">|
+|55|2022-08-21|43238|입국심사|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-orange">|
