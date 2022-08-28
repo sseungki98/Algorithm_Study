@@ -71,3 +71,4 @@
 |56|2022-08-25|17503|맥주 축제|<img height="25px" width="25px" src="https://camo.githubusercontent.com/e89e2c34907a70e2de81836b1d798391d56768998c197adccdb9ee1a71f75b9e/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f392e737667">|[문제 바로가기](https://www.acmicpc.net/problem/17503)|
 |57|2022-08-26|15683|감시|<img height="25px" width="25px" src=https://camo.githubusercontent.com/79013bf11c1e72844bc5d8a076d15a104573637a0cf520a2ae8e645c147b00b3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31322e737667>|[문제 바로가기](https://www.acmicpc.net/problem/15683)|
 |58|2022-08-27|12909|올바른 괄호|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-yellow">|[문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|
+|59|2022-08-28|118667|두 큐 합 같게 만들기|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-yellow">|[문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|
