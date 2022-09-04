@@ -78,4 +78,4 @@
 |63|2022-09-01|2960|에라토스테네스의 체|<img height="25px" width="25px" src="https://camo.githubusercontent.com/64671b5a244ad70dc11665f1293bdde51747df3d9cd4bfe2c36b1e5e1a78872b/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f372e737667">|[문제 바로가기](https://www.acmicpc.net/problem/2960)|
 |64|2022-09-02|2504|괄호의 값|<img height="25px" width="25px" src="https://camo.githubusercontent.com/f9fbfc34970ea19a732149ee3f1afc3fcb96309a8d182ef157d724d6eefd1973/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31302e737667">|[문제 바로가기](https://www.acmicpc.net/problem/2504)|
 |65|2022-09-03|118666|성격 유형 검사|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.1-darkgreen">|[문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|
-|66|2022-09-04|86051|없는 숫자 더하기|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.1-darkgreen">|[문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)|
+|66|2022-09-04|12977|소수 만들기|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.1-darkgreen">|[문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)|
