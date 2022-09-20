@@ -93,3 +93,4 @@
 |78|2022-09-16|1025|제곱수 찾기|<img height="25px" width="25px" src="https://camo.githubusercontent.com/7be7b7f2d5361871ef2ac500e420e83f1d9a425951dd33efa42068862e6b0bf3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31312e737667">|[문제 바로가기](https://www.acmicpc.net/problem/1025)|
 |79|2022-09-17|12939|최댓값과 최솟값|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-yellow">|[문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|
 |80|2022-09-18|72411|메뉴 리뉴얼|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-yellow">|[문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|
+|81|2022-09-19|16194|카드 구매하기2|<img height="25px" width="25px" src="https://camo.githubusercontent.com/f9fbfc34970ea19a732149ee3f1afc3fcb96309a8d182ef157d724d6eefd1973/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31302e737667">|[문제 바로가기](https://www.acmicpc.net/problem/16194)|
