@@ -99,5 +99,5 @@
 |84|2022-09-22|21278|호석이 두 마리 치킨|<img height="25px" width="25px" src="https://camo.githubusercontent.com/7be7b7f2d5361871ef2ac500e420e83f1d9a425951dd33efa42068862e6b0bf3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31312e737667">|[문제 바로가기](https://www.acmicpc.net/problem/21278)|
 |85|2022-09-23|20444|색종이와 가위|<img height="25px" width="25px" src="https://camo.githubusercontent.com/7be7b7f2d5361871ef2ac500e420e83f1d9a425951dd33efa42068862e6b0bf3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31312e737667">|[문제 바로가기](https://www.acmicpc.net/problem/20444)|
 |86|2022-09-24|2668|숫자고르기|<img height="25px" width="25px" src="https://camo.githubusercontent.com/7be7b7f2d5361871ef2ac500e420e83f1d9a425951dd33efa42068862e6b0bf3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31312e737667">|[문제 바로가기](https://www.acmicpc.net/problem/2668)|
-|87|2022-09-25|22868|산책 (small)|<img height="25px" width="25px"
-src="https://camo.githubusercontent.com/3cb34034a26a3aa15c63cb7fee8761debb21b0770fa48026449d7a3d00fbff79/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31332e737667">|[문제 바로가기](https://www.acmicpc.net/problem/22868)|
+|86|2022-09-24|22868|산책 (small)|<img height="25px" width="25px" src="https://camo.githubusercontent.com/3cb34034a26a3aa15c63cb7fee8761debb21b0770fa48026449d7a3d00fbff79/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31332e737667">|[문제 바로가기](https://www.acmicpc.net/problem/22868)|
+
