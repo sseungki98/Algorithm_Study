@@ -105,5 +105,5 @@
 |90|2022-09-28|2170|선 긋기|<img height="25px" width="25px" src="https://camo.githubusercontent.com/7be7b7f2d5361871ef2ac500e420e83f1d9a425951dd33efa42068862e6b0bf3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31312e737667">|[문제 바로가기](https://www.acmicpc.net/problem/2170)|
 |91|2022-09-29|20164|홀수 홀릭 호석|<img height="25px" width="25px" src="https://camo.githubusercontent.com/7be7b7f2d5361871ef2ac500e420e83f1d9a425951dd33efa42068862e6b0bf3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31312e737667">|[문제 바로가기](https://www.acmicpc.net/problem/20164)|
 |92|2022-09-30|14891|톱니바퀴|<img height="25px" width="25px" src="https://camo.githubusercontent.com/7be7b7f2d5361871ef2ac500e420e83f1d9a425951dd33efa42068862e6b0bf3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31312e737667">|[문제 바로가기](https://www.acmicpc.net/problem/14891)|
-
+|93|2022-10-01|133501|야간 전술보행|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-yellow">|[문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/133501)|
 
