@@ -106,4 +106,8 @@
 |91|2022-09-29|20164|홀수 홀릭 호석|<img height="25px" width="25px" src="https://camo.githubusercontent.com/7be7b7f2d5361871ef2ac500e420e83f1d9a425951dd33efa42068862e6b0bf3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31312e737667">|[문제 바로가기](https://www.acmicpc.net/problem/20164)|
 |92|2022-09-30|14891|톱니바퀴|<img height="25px" width="25px" src="https://camo.githubusercontent.com/7be7b7f2d5361871ef2ac500e420e83f1d9a425951dd33efa42068862e6b0bf3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31312e737667">|[문제 바로가기](https://www.acmicpc.net/problem/14891)|
 |93|2022-10-01|133501|야간 전술보행|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-yellow">|[문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/133501)|
-
+---
+## Version 2
+|주차|핵심문제|도전문제|평균티어|성공여부|
+|:------:|:---:|:---:|:-------:|:---:|
+|1|[9656](https://www.acmicpc.net/problem/9656) [2012](https://www.acmicpc.net/problem/2012) [1057](https://www.acmicpc.net/problem/1057) [26169](https://www.acmicpc.net/problem/26169) [2776](https://www.acmicpc.net/problem/2776)|[11448](https://www.acmicpc.net/problem/11448)|<img height="25px" width="25px" src="https://camo.githubusercontent.com/64671b5a244ad70dc11665f1293bdde51747df3d9cd4bfe2c36b1e5e1a78872b/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f372e737667">|이성준: ⭕ 최한윤: ❌ 석홍준: ❌ 이승현: ❌|
