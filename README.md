@@ -108,6 +108,6 @@
 |93|2022-10-01|133501|야간 전술보행|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-yellow">|[문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/133501)|
 ---
 ## Version 2
-|주차|핵심문제|도전문제|평균티어|성공여부|
+|번호|문제|문제 티어|문제 바로가기|성공여부|
 |:------:|:---:|:---:|:-------:|:---:|
-|1|[9656](https://www.acmicpc.net/problem/9656) [2012](https://www.acmicpc.net/problem/2012) [1057](https://www.acmicpc.net/problem/1057) [26169](https://www.acmicpc.net/problem/26169) [2776](https://www.acmicpc.net/problem/2776)|[11448](https://www.acmicpc.net/problem/11448)|<img height="25px" width="25px" src="https://camo.githubusercontent.com/64671b5a244ad70dc11665f1293bdde51747df3d9cd4bfe2c36b1e5e1a78872b/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f372e737667">|이성준: ⭕ 최한윤: ❌ 석홍준: ❌ 이승현: ❌|
+|1|1002[터렛]|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|[문제 바로가기](https://www.acmicpc.net/problem/1002)|석홍준: ❌ 이승현: ❌|
