@@ -112,3 +112,4 @@
 |:---:|:--:|:---:|:-------:|:---:|
 |  1  |1002|[터렛](https://www.acmicpc.net/problem/1002)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕ 이승현: ⭕|
 |  2  |26215|[눈 치우기](https://www.acmicpc.net/problem/26215)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕ 이승현: ❌|
+|  3  |2193|[이친수](https://www.acmicpc.net/problem/2193)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ❌ 이승현: ❌|
