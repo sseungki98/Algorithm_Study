@@ -8,6 +8,9 @@
 |[Kkkimdongju](https://github.com/Kkkimdongju)|[junBcomputerstory](https://github.com/junBcomputerstory)|[castlejun-2](https://github.com/castlejun-2)|[sseungki98](https://github.com/sseungki98)|[chlgksdbs](https://github.com/chlgksdbs)|Undefined|Undefined|
 
 ## Solved List
+<details>
+<summary>시즌1</summary>
+
 |순번|날짜|번호|제목|티어|링크|
 |:------:|:---:|:---:|:-------:|:---:|:------------:|
 |1|2022-06-28|4673|셀프 넘버|<img height="25px" width="25px" src="https://camo.githubusercontent.com/89e322b0e2851dcacbc493e6d486138186a845da7f71f50b181a1993b9a4ea65/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f362e737667">|[문제 바로가기](https://www.acmicpc.net/problem/4673)|
@@ -106,10 +109,11 @@
 |91|2022-09-29|20164|홀수 홀릭 호석|<img height="25px" width="25px" src="https://camo.githubusercontent.com/7be7b7f2d5361871ef2ac500e420e83f1d9a425951dd33efa42068862e6b0bf3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31312e737667">|[문제 바로가기](https://www.acmicpc.net/problem/20164)|
 |92|2022-09-30|14891|톱니바퀴|<img height="25px" width="25px" src="https://camo.githubusercontent.com/7be7b7f2d5361871ef2ac500e420e83f1d9a425951dd33efa42068862e6b0bf3/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f31312e737667">|[문제 바로가기](https://www.acmicpc.net/problem/14891)|
 |93|2022-10-01|133501|야간 전술보행|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-yellow">|[문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/133501)|
----
+</details>
+
 ## Version 2
 | 순번  |문제 번호|문제|문제 티어|성공여부|
 |:---:|:--:|:---:|:-------:|:---:|
-|  1  |1002|[터렛](https://www.acmicpc.net/problem/1002)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕ 이승현: ⭕|
-|  2  |26215|[눈 치우기](https://www.acmicpc.net/problem/26215)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕ 이승현: ⭕|
-|  3  |2193|[이친수](https://www.acmicpc.net/problem/2193)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕ 이승현: ⭕|
+|  1  |1002|[터렛](https://www.acmicpc.net/problem/1002)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕ 이승현: ⭕ 최한윤: ❌|
+|  2  |26215|[눈 치우기](https://www.acmicpc.net/problem/26215)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕ 이승현: ⭕ 최한윤: ⭕|
+|  3  |2193|[이친수](https://www.acmicpc.net/problem/2193)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕ 이승현: ⭕ 최한윤: ❌|
