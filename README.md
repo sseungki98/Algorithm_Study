@@ -129,6 +129,6 @@
 |  13  |2346|[풍선 터뜨리기](https://www.acmicpc.net/problem/2346)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕  이승현: ⭕ 최한윤: ❌|
 |  14  |11048|[이동하기](https://www.acmicpc.net/problem/11048)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준: ⭕  이승현: ⭕ 최한윤: ❌|
 |  15  |2961|[도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준: ⭕   이승현: ❌ 최한윤: ❌|
-|  16  |1124|[언더프라임](https://www.acmicpc.net/problem/1124)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준: ❌   이승현: ❌ 최한윤: ❌|
+|  16  |1124|[언더프라임](https://www.acmicpc.net/problem/1124)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준: ⭕   이승현: ❌ 최한윤: ❌|
 |  17  |1406|[에디터](https://www.acmicpc.net/problem/1406)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준: ❌   이승현: ❌ 최한윤: ❌|
 
