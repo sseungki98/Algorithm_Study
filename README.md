@@ -134,5 +134,5 @@
 |  18  |1927|[최소힙](https://www.acmicpc.net/problem/1927)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준: ⭕   이승현: ⭕ 최한윤: ❌|
 |  19  |11279|[최대힙](https://www.acmicpc.net/problem/11279)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준: ⭕   이승현: ⭕ 최한윤: ❌|
 |  20  |2075|[N번째 큰수](https://www.acmicpc.net/problem/2075)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준: ⭕   이승현: ❌ 최한윤: ❌|
-|  21  |1660|[캡틴이다솜](https://www.acmicpc.net/problem/1660)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ❌   이승현: ❌ 최한윤: ❌|
+|  21  |1660|[캡틴이다솜](https://www.acmicpc.net/problem/1660)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ⭕   이승현: ❌ 최한윤: ❌|
 |  22  |2667|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ❌   이승현: ❌ 최한윤: ❌|
