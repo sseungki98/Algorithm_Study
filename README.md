@@ -135,4 +135,7 @@
 |  19  |11279|[최대힙](https://www.acmicpc.net/problem/11279)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준: ⭕   이승현: ⭕ 최한윤: ❌|
 |  20  |2075|[N번째 큰수](https://www.acmicpc.net/problem/2075)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준: ⭕   이승현: ❌ 최한윤: ❌|
 |  21  |1660|[캡틴이다솜](https://www.acmicpc.net/problem/1660)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ⭕   이승현: ❌ 최한윤: ❌|
-|  22  |2667|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ❌   이승현: ❌ 최한윤: ❌|
+|  22  |2667|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ⭕   이승현: ❌ 최한윤: ❌|
+|  23  |11052|[카드 구매하기](https://www.acmicpc.net/problem/11052)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ❌   이승현: ❌ 최한윤: ❌|
+|  24  |15903|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ❌   이승현: ❌ 최한윤: ❌|
+|  25  |14426|[접두사 찾기](https://www.acmicpc.net/problem/14426)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ❌   이승현: ❌ 최한윤: ❌|
