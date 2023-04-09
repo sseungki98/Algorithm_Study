@@ -120,8 +120,8 @@
 |  4  |14606|[피자(Small)](https://www.acmicpc.net/problem/14606)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg">|석홍준: ⭕ 이승현: ⭕ 최한윤: ❌|
 |  5  |1063|[킹](https://www.acmicpc.net/problem/1063)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕ 이승현: ⭕ 최한윤: ❌|
 |  6  |17204|[죽음의게임](https://www.acmicpc.net/problem/17204)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕ 이승현: ⭕ 최한윤: ❌|
-|  7  |9657|[돌 게임3](https://www.acmicpc.net/problem/9657)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕  이승현: ⭕ 최한윤: ⭕|
-|  8  |14501|[퇴사](https://www.acmicpc.net/problem/14501)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕  이승현: ⭕ 최한윤: ❌|
+|  7  |9657|[돌 게임3](https://www.acmicpc.net/problem/9657)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕  이승현: ⭕ 최한윤: ❌|
+|  8  |14501|[퇴사](https://www.acmicpc.net/problem/14501)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕  이승현: ⭕ 최한윤: ⭕|
 |  9  |16173|[점프왕 쩰리 (Small)](https://www.acmicpc.net/problem/16173)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg">|석홍준: ⭕   이승현: ⭕ 최한윤: ❌|
 |  10  |13413|[오셀로 재배치](https://www.acmicpc.net/problem/13413)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg">|석홍준: ⭕  이승현: ⭕ 최한윤: ❌|
 |  11  |5545|[최고의 피자](https://www.acmicpc.net/problem/5545)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕  이승현: ⭕ 최한윤: ❌|
