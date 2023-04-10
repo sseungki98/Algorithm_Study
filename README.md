@@ -139,4 +139,4 @@
 |  23  |11052|[카드 구매하기](https://www.acmicpc.net/problem/11052)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ⭕   이승현: ❌ 최한윤: ❌|
 |  24  |15903|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ⭕   이승현: ❌ 최한윤: ❌|
 |  25  |14426|[접두사 찾기](https://www.acmicpc.net/problem/14426)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ⭕   이승현: ❌ 최한윤: ⭕|
-|  25  |14426|[가격이 제일 싼 식품정보 출력하기](https://www.acmicpc.net/problem/14426)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ❌   이승현: ❌ 최한윤: ❌|
+|  25  |14426|[가격이 제일 싼 식품정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-yellow">|석홍준: ❌   이승현: ❌ 최한윤: ❌|
