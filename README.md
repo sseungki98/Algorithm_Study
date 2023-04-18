@@ -146,5 +146,5 @@
 |  29  |1991|[트리 순회](https://www.acmicpc.net/problem/1991)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ⭕   이승현: ❌ 최한윤: ❌|
 |  30  |2002|[추월](https://www.acmicpc.net/problem/2002)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ❌   이승현: ❌ 최한윤: ❌|
 |  31  |15805|[트리나라 관광가이드](https://www.acmicpc.net/problem/15805)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ❌   이승현: ❌ 최한윤: ❌|
-|  32  |SQL|[카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-yellow">|석홍준:  ❌   이승현: ❌ 최한윤: ❌|
+|  32  |SQL|[카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-yellow">|석홍준:  ❌   이승현: ❌ 최한윤: ❌|
 
