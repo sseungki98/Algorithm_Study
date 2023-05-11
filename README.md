@@ -153,5 +153,5 @@
 |  36  |17836|[공주님을 구해라!](https://www.acmicpc.net/problem/17836)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준: ⭕   이승현:❌ 최한윤:❌|
 |  37  |5212|[지구 온난화](https://www.acmicpc.net/problem/5212)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준:⭕   이승현:❌ 최한윤:❌|
 |  38  |24390|[또 전자렌지야?](https://www.acmicpc.net/problem/24390)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준:❌   이승현:❌ 최한윤:❌|
-|  39  |2644|[촌수계산](https://www.acmicpc.net/problem/2644)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9svg">|석홍준:❌   이승현:❌ 최한윤:❌|
+|  39  |2644|[촌수계산](https://www.acmicpc.net/problem/2644)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준:❌   이승현:❌ 최한윤:❌|
 
