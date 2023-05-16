@@ -160,4 +160,4 @@
 |  43  |2468|[안전영역](https://www.acmicpc.net/problem/2468)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준:❌   이승현:❌ 최한윤:❌|
 |  44  |15686|[치킨배달](https://www.acmicpc.net/problem/15686)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준:❌   이승현:❌ 최한윤:❌|
 |  45  |21610|[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준:❌   이승현:❌ 최한윤:❌|
-|  46  |14888|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준:❌   이승현:❌ 최한윤:❌|
+|  46  |14888|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준:❌   이승현:❌ 최한윤:❌|
