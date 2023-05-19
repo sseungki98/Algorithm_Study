@@ -149,12 +149,12 @@
 |  32  |SQL|[카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-yellow">|석홍준:⭕   이승현: ⭕ 최한윤:❌|
 |  33  |2240|[자두나무](https://www.acmicpc.net/problem/2240)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준: ⭕   이승현: ❌ 최한윤:❌|
 |  34  |2504|[괄호의 값](https://www.acmicpc.net/problem/2504)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준: ⭕   이승현: ❌ 최한윤:❌|
-|  35  |SQL|[년,월,성별 별 상품구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.4-yellow">|석홍준:⭕   이승현: ❌ 최한윤:❌|
+|  35  |SQL|[년,월,성별 별 상품구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.4-yellow">|석홍준:⭕   이승현: ⭕ 최한윤:❌|
 |  36  |17836|[공주님을 구해라!](https://www.acmicpc.net/problem/17836)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준: ⭕   이승현:❌ 최한윤:❌|
 |  37  |5212|[지구 온난화](https://www.acmicpc.net/problem/5212)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준:⭕   이승현:❌ 최한윤:❌|
 |  38  |24390|[또 전자렌지야?](https://www.acmicpc.net/problem/24390)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준:⭕   이승현:❌ 최한윤:❌|
 |  39  |2644|[촌수계산](https://www.acmicpc.net/problem/2644)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준:⭕   이승현:⭕ 최한윤:❌|
-|  40  |19583|[싸이버개강총회](https://www.acmicpc.net/problem/19583)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준:⭕   이승현:❌ 최한윤:❌|
+|  40  |19583|[싸이버개강총회](https://www.acmicpc.net/problem/19583)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준:⭕   이승현:⭕ 최한윤:❌|
 |  41  |2302|[극장좌석](https://www.acmicpc.net/problem/2302)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준:⭕   이승현:❌ 최한윤:❌|
 |  42  |2178|[미로탐색](https://www.acmicpc.net/problem/2178)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준:⭕   이승현:❌ 최한윤:❌|
 |  43  |2468|[안전영역](https://www.acmicpc.net/problem/2468)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준:⭕   이승현:⭕ 최한윤:❌|
