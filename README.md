@@ -175,7 +175,7 @@
 |  58  |21608|[상어 초등학교](https://www.acmicpc.net/problem/21608)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준:❌   이승현:❌ 최한윤:❌|
 |  59  |SQL|[대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-blue">|석홍준:❌   이승현: ❌ 최한윤:❌|
 |  60  |SQL|[조회수가 가장 많은 중고거래 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-blue">|석홍준:❌   이승현: ❌ 최한윤:❌|
-|  61  |Programmers|[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:❌   이승현: ❌ 최한윤: ❌|
+|  61  |Programmers|[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕   이승현: ❌ 최한윤: ❌|
 |  62  |Programmers|[혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:❌   이승현: ❌ 최한윤: ❌|
 |  63  |Programmers|[시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:❌   이승현: ❌ 최한윤: ❌|
 |  64  |Programmers|[사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-blue">|석홍준:❌   이승현: ❌ 최한윤: ❌|
