@@ -46,8 +46,6 @@ class Solution {
     // val: 피로도를 저장하는 변수
     public void subset(int[] picks, int num, int cnt, String[] minerals, int idx, int val) {
         
-        // System.out.println(cnt + " " + idx + " " + val);
-        
         // 모든 광물을 캔 경우 (첫 번째 종료 조건)
         if (minerals.length == idx) {
             answer = Math.min(answer, val); // 최솟값으로 갱신
