@@ -171,10 +171,10 @@
 |  54  |SQL|[조회수가 가장 많은 중고거래 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-blue">|석홍준:⭕  이승현: ❌ 최한윤:❌|
 |  55  |Programmers|[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕  이승현: ❌ 최한윤: ⭕|
 |  56  |Programmers|[혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕  이승현: ❌ 최한윤: ❌|
-|  57  |Programmers|[시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕   이승현: ❌ 최한윤: ❌|
+|  57  |Programmers|[시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕   이승현: ⭕ 최한윤: ❌|
 |  58  |Programmers|[리코체 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕   이승현: ❌ 최한윤: ❌|
 |  59  |Programmers|[당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕  이승현: ❌ 최한윤: ❌|
-|  60  |Programmers|[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕  이승현: ❌ 최한윤: ❌|
+|  60  |Programmers|[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕  이승현: ⭕ 최한윤: ❌|
 |  61  |Programmers|[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:❌  이승현: ❌ 최한윤: ❌|
 |  62  |Programmers|[사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-blue">|석홍준:❌  이승현: ❌ 최한윤: ❌|
 |  63  |Programmers|[억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-blue">|석홍준:❌  이승현: ❌ 최한윤: ❌|
