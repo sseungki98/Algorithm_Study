@@ -176,5 +176,7 @@
 |  59  |Programmers|[당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕  이승현: ❌ 최한윤: ❌|
 |  60  |Programmers|[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕  이승현: ⭕ 최한윤: ❌|
 |  61  |Programmers|[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕  이승현: ❌ 최한윤: ❌|
+|  62  |Programmers|[택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:❌  이승현: ❌ 최한윤: ❌|
+|  63  |Programmers|[이모티콘 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:❌  이승현: ❌ 최한윤: ❌|
 |  62  |Programmers|[사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-blue">|석홍준:❌  이승현: ❌ 최한윤: ❌|
 |  63  |Programmers|[억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-blue">|석홍준:❌  이승현: ❌ 최한윤: ❌|
