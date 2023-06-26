@@ -112,6 +112,8 @@
 </details>
 
 ## Version 2
+<details>
+<summary>시즌2</summary>
 | 순번  |문제 번호|문제|문제 티어|성공여부|
 |:---:|:--:|:---:|:-------:|:---:|
 |  1  |1002|[터렛](https://www.acmicpc.net/problem/1002)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg">|석홍준: ⭕ 이승현: ⭕ 최한윤:❌|
@@ -180,3 +182,9 @@
 |  63  |Programmers|[이모티콘 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:❌  이승현: ❌ 최한윤: ❌|
 |  64  |Programmers|[사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-blue">|석홍준:❌  이승현: ❌ 최한윤: ❌|
 |  65  |Programmers|[억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-blue">|석홍준:❌  이승현: ❌ 최한윤: ❌|
+</details>
+
+## Version 3
+| 순번  |문제 번호|문제|문제 티어|성공여부|
+|:---:|:--:|:---:|:-------:|:---:|
+|  1  |13565|[침투]([https://www.acmicpc.net/problem/1002](https://www.acmicpc.net/problem/13565))|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준: ❌ 이승현: ❌ 최한윤:❌|
