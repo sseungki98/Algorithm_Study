@@ -190,3 +190,4 @@
 |  3  |11286|[절댓값 힙](https://www.acmicpc.net/problem/11286)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준:⭕  이승현: ⭕ 최한윤: ❌|
 |  4  |[Programmers|[두 큐 합 같게 하기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕  이승현: ⭕ 최한윤: ❌|
 |  5  |[Programmers|[과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:❌  이승현:⭕ 최한윤: ❌|
+|  6  |2725|[보이는 점의 개수](https://www.acmicpc.net/problem/2725)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준:❌  이승현: ❌ 최한윤: ❌|
