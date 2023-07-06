@@ -192,3 +192,4 @@
 |  5  |Programmers|[과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕  이승현:⭕ 최한윤: ❌|
 |  6  |2725|[보이는 점의 개수](https://www.acmicpc.net/problem/2725)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  7  |Programmers|[양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  8  |Programmers|[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::❌  이승현: ❌ 최한윤: ❌|
