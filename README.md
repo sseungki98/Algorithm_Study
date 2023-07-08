@@ -194,3 +194,4 @@
 |  7  |Programmers|[양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  8  |Programmers|[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  9  |Programmers|[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  10  |Programmers|[롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
