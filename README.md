@@ -196,3 +196,4 @@
 |  9  |Programmers|[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  10  |Programmers|[롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  11  |11057|[오르막수](https://www.acmicpc.net/problem/11057)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  12  |Programmers|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
