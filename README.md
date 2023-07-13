@@ -198,4 +198,5 @@
 |  11  |11057|[오르막수](https://www.acmicpc.net/problem/11057)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  12  |Programmers|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  13  |Programmers|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  14  |Programmers|[다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-blue">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 
