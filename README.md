@@ -201,4 +201,6 @@
 |  14  |Programmers|[다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-blue">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  15  |Programmers|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  16  |Programmers|[멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  17  |Programmers|[혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+
 
