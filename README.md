@@ -203,7 +203,9 @@
 |  16  |Programmers|[멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  17  |Programmers|[혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  18  |Programmers|[표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-blue">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
-|  11  |17178|[줄서기](https://www.acmicpc.net/problem/17178)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  19  |17178|[줄서기](https://www.acmicpc.net/problem/17178)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  20  |21772|[가희의 고구마 먹방](https://www.acmicpc.net/problem/21772)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  21  |16194|[카드 구매하기 2](https://www.acmicpc.net/problem/16194)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 
 
 
