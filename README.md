@@ -207,6 +207,7 @@
 |  20  |21772|[가희의 고구마 먹방](https://www.acmicpc.net/problem/21772)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  21  |16194|[카드 구매하기 2](https://www.acmicpc.net/problem/16194)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  22  |Programmers|[상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-blue">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  23  |Programmers|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 
 
 
