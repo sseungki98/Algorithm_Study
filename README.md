@@ -210,6 +210,7 @@
 |  23  |Programmers|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  24  |Programmers|[에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.3-blue">|석홍준::❌  이승현: ❌ 최한윤: ❌|
 |  25  |Programmers|[요격시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  26  |Programmers|[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 
 
 
