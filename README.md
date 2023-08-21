@@ -215,6 +215,7 @@
 |  27  |Programmers|[디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  28  |Programmers|[택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  29  |Programmers|[두 원 사이의 정수쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  30  |Programmers|[미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 
 
 
