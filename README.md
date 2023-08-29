@@ -218,6 +218,7 @@
 |  30  |Programmers|[미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  31  |Programmers|[숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  32  |Programmers|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  33  |Programmers|[우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 
 
 
