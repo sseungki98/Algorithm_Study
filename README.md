@@ -225,6 +225,7 @@
 |  36  |Programmers|[구명 보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  36  |Programmers|[구명 보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  36  |Programmers|[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  35  |1092|[배](https://www.acmicpc.net/problem/1092)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 
 
 # Algorithm
