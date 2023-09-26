@@ -222,10 +222,11 @@
 |  34  |1027|[고층 건물](https://www.acmicpc.net/problem/21772)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  35  |1027|[램프](https://www.acmicpc.net/problem/1034)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  36  |Programmers|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
-|  36  |Programmers|[구명 보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
-|  36  |Programmers|[구명 보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
-|  36  |Programmers|[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
-|  35  |1092|[배](https://www.acmicpc.net/problem/1092)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  37  |Programmers|[구명 보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  38  |Programmers|[구명 보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  39  |Programmers|[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  40  |1092|[배](https://www.acmicpc.net/problem/1092)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  41  |1106|[호텔](https://www.acmicpc.net/problem/1106)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 
 
 # Algorithm
