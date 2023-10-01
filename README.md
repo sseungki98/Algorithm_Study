@@ -230,16 +230,6 @@
 |  42  |1107|[리모컨](https://www.acmicpc.net/problem/1107)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 
 
-# Algorithm
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sysh9498)](https://solved.ac/sysh9498) [![mazandi profile](http://mazandi.herokuapp.com/api?handle=jjun990908)](https://solved.ac/jjun990908)
-
-### 땅콩즈 잔디 모음
-
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=clcc001)](https://solved.ac/clcc001)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=sysh9498)](https://solved.ac/sysh9498)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=0909oje)](https://solved.ac/0909oje)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=zndnfjqbd)](https://solved.ac/zndnfjqbd)
-
 
 ### 드롭 아웃 잔디
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=ggaye159)](https://solved.ac/ggaye159)
