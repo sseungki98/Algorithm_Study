@@ -233,6 +233,8 @@
 |  45  |1083|[소트](https://www.acmicpc.net/problem/1083)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  46  |Programmers|[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
 |  47  |Programmers|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+|  48  |Programmers|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준::⭕  이승현: ❌ 최한윤: ❌|
+
 
 
 
