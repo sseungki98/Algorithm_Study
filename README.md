@@ -238,6 +238,7 @@
 |  50  |15681|[트리와 쿼리](https://www.acmicpc.net/problem/15681)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준:⭕  이승현: ❌ 최한윤: ❌|
 |  51  |7576|[토마토](https://www.acmicpc.net/problem/7576)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준:⭕  이승현: ❌ 최한윤: ❌|
 |  52  |Programmers|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕  이승현: ❌ 최한윤: ❌|
+|  53  |Programmers|[연속 부분 수열의 합의 갯수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕  이승현: ❌ 최한윤: ❌|
 
 
 
