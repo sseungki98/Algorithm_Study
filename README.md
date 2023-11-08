@@ -244,7 +244,7 @@
 |  56  |17609|[회문](https://www.acmicpc.net/problem/17609)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준:⭕  이승현: ❌ 최한윤: ❌|
 |  57  |12904|[A와B](https://www.acmicpc.net/problem/12904)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준: ⭕  이승현: ❌ 최한윤: ❌|
 |  58  |16120|[PPAP](https://www.acmicpc.net/problem/16120)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준: ⭕  이승현: ❌ 최한윤: ❌|
-|  59  |18428|[감시피하기](https://www.acmicpc.net/problem/18428)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준: ❌  이승현: ❌ 최한윤: ❌|
+|  59  |18428|[감시피하기](https://www.acmicpc.net/problem/18428)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준: ⭕  이승현: ❌ 최한윤: ❌|
 
 
 
