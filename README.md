@@ -247,7 +247,7 @@
 |  59  |18428|[감시피하기](https://www.acmicpc.net/problem/18428)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준: ⭕  이승현: ❌ 최한윤: ❌|
 |  60  |Programmers|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|<img height="25px" width="25px" src="https://img.shields.io/badge/-Lv.2-bronze">|석홍준:⭕  이승현: ❌ 최한윤: ❌|
 |  61  |14503|[로봇청소기](https://www.acmicpc.net/problem/14503)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준: ⭕  이승현: ❌ 최한윤: ❌|
-|  62  |1916|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준: ❌  이승현: ❌ 최한윤: ❌|
+|  62  |1916|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|석홍준: ⭕  이승현: ❌ 최한윤: ❌|
 
 
 
